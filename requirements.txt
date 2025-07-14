@@ -1,0 +1,24 @@
+# streamlit==1.35.0
+# python-dotenv==1.0.1
+# pymupdf==1.23.24
+# pillow==10.3.0
+# numpy==1.26.4
+# scikit-learn==1.5.0
+# torch==2.3.0
+# transformers==4.43.1
+# sentence-transformers==2.7.0
+# groq==0.5.0
+# langchain==0.2.2
+
+streamlit
+pymupdf
+python-dotenv
+sentence-transformers
+scikit-learn
+langchain
+pillow
+groq
+pytesseract==0.3.10  # Pure Python wrapper
+#tesserocr==2.6.0  # Alternative that works better in cloud
+pdf2image
+opencv-python-headless
